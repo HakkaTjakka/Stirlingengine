@@ -2,15 +2,6 @@
 Thermodynamics. Solving 99% of all the worlds problems.
 
 
-![clipboard_small](https://drive.google.com/file/d/1vGABiIpp5WaASd66I8bspmRm5jlAbJtX)
-
-![clipboard_small](https://drive.google.com/file/d/1jver_UFBJY5SiyFljaEtRM6P36YaNyin)
-
-![clipboard_small](https://www.facebook.com/groups/Stirlingengine/permalink/658372284876057/)
-
-![clipboard_small](https://www.facebook.com/photo.php?fbid=2726225860773337&set=gm.421701151876506&type=1&theater)
-
-
 
 (P ressure * V olume) / T emperature(Kelvin) = constant
 
