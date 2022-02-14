@@ -13,6 +13,7 @@ Thermodynamics. Solving 99% of all the worlds problems.
 ![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image%20(6).gif)
 
 ![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/Unsaved%20Image%201.jpg)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/Unsaved%20Image%202.jpg)
 
 ![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/73149261_2726225864106670_6257256459617173504_o.jpg)
 
