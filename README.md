@@ -9,7 +9,7 @@ Thermodynamics. Solving 99% of all the worlds problems.
 
 
 
-```bash
+```text
 
 
 (P ressure * V olume) / T emperature(Kelvin) = constant
