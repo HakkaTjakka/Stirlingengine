@@ -9,8 +9,10 @@ Thermodynamics. Solving 99% of all the worlds problems.
 
 
 
+```bash
 
-...(P ressure * V olume) / T emperature(Kelvin) = constant
+
+(P ressure * V olume) / T emperature(Kelvin) = constant
 
 By heating up a gas (air), the pressure will go up, and/or the volume will get bigger.
 When cooling a gas, the pressure wil go down, and/or the volume will get smaler.
@@ -70,4 +72,4 @@ What could you do with endless amounts of free cheap clean energy?
 Like almost everything?
 But then the voting sheep who work in the system-created misery industry have to clean their own toilets....
 This/these techniques exists/are known for over 200 years. (Stirling engine / heat engine / thermodynamics / slavery by energy).
-...
+```
