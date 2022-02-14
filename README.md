@@ -4,6 +4,13 @@ Thermodynamics. Solving 99% of all the worlds problems.
 ![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/IWONTDOWHATYOUTELLME.JPG)
 
 ![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/Stirling_Animation.gif)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image.gif)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image%20(1).gif)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image%20(2).gif)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image%20(3).gif)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image%20(4).gif)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image%20(5).gif)
+![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/STIRLING/safe_image%20(6).gif)
 
 ![clipboard_small](https://github.com/HakkaTjakka/Stirlingengine/blob/main/Unsaved%20Image%201.jpg)
 
